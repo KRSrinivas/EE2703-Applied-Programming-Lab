@@ -1,0 +1,6 @@
+Absolute error at Iteration - 1 is : 5.20042e-05
+Absolute error at Iteration - 2 is : 2.07579e-11
+Absolute error at Iteration - 3 is : 1.32645e-17
+
+Accuracy of the DFT is: 1.32645e-17 and Iterations took: 3
+Best Window_size: 25.1327 , Sampling_rate: 512
